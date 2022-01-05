@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "chromedriver": "^96.0.0",
+    "faker": "^5.5.3",
     "geckodriver": "^2.0.4",
     "nightwatch": "^2.0.0-beta.1"
   }

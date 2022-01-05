@@ -3,6 +3,7 @@ module.exports = {
         browser
             .url('http://automationpractice.com')
             .waitForElementVisible('#header')
+            .pause(10000)
             .assert.visible("#header")
     }
 }
